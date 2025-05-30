@@ -34,5 +34,5 @@
 - Ragini   
 
 #Clone the Repo
-
+https://github.com/Shweta-Tech-creator/EmotiRate.git
 ---
